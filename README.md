@@ -1,6 +1,3 @@
-# Git Practice
-Vanessa Chen
-
 # An Article I Found Interesting:
 [Improving Gender Inclusion by Using Agile Principles](https://www.infoq.com/news/2021/10/gender-inclusion-agile/)
 
